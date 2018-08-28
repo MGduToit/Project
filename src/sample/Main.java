@@ -6,6 +6,8 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+/** Created by MG du Toit - 214016943 */
+
 public class Main extends Application {
 
     @Override
